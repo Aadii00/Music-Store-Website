@@ -1,4 +1,4 @@
-const music = new Audio(`./Audio/Untitled.mp3`);
+//const music = ;
 //music.play();
 const songs = [
     {
@@ -9,25 +9,25 @@ const songs = [
     },
     {
         id: '2',
-        songName: `Saza E Maut <br>
+        songName: `Falloff <br>
         <div class = "subtitle">Kr$na</div>`,
         poster: "img2.png"
     },
     {
         id: '3',
-        songName: `Fall Off <br>
+        songName: `Nocap <br>
         <div class = "subtitle">Kr$na</div>`,
         poster: "img3.png"
     },
     {
         id: '4',
-        songName: `Roll Up <br>
+        songName: `Blowing up <br>
         <div class = "subtitle">Kr$na</div>`,
         poster: "img4.png"
     },
     {
         id: '5',
-        songName: `No Cap <br>
+        songName: `Tu aa k dekh le <br>
         <div class = "subtitle">Kr$na</div>`,
         poster: "img5.png"
     },
